@@ -1,0 +1,6 @@
+{
+  "name": "JOB PREP - 공공기관 취업 준비",
+  "description": "공공기관 채용 대시보드, 기업별 티어표, 실시간 서류 가점 분석 및 STAR 면접 기출 연습 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
